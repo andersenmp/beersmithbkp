@@ -1,88 +1,88 @@
 <Plugin><_MOD_>2011-04-20</_MOD_>
 <Name>Plugin</Name>
 <Type>8344</Type>
-<Dirty>0</Dirty>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>8344</TID>
 <Size>16</Size>
 <_XName>Plugin</_XName>
 <Allocinc>16</Allocinc>
-<Data><Plugin><_MOD_>2018-01-12</_MOD_>
+<Data><Plugin><_MOD_>1970-01-01</_MOD_>
 <F_PLUG_NAME>BJCP 2015 Style Guide - Change Options-&gt;Brewing-&gt;Style Guide to view </F_PLUG_NAME>
 <F_PLUG_TYPE>7428</F_PLUG_TYPE>
 <F_PLUG_FILE>BJCP2015.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>2018-01-12</_MOD_>
+<Plugin><_MOD_>2018-02-14</_MOD_>
 <F_PLUG_NAME>Castle Malts - English (67 grains)</F_PLUG_NAME>
 <F_PLUG_TYPE>7406</F_PLUG_TYPE>
 <F_PLUG_FILE>CastleMaltEnglish.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>2018-01-12</_MOD_>
+<Plugin><_MOD_>1970-01-01</_MOD_>
 <F_PLUG_NAME>Hop Update 2016 (32 hops)</F_PLUG_NAME>
 <F_PLUG_TYPE>7403</F_PLUG_TYPE>
 <F_PLUG_FILE>Hops2016Update.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>2018-01-12</_MOD_>
+<Plugin><_MOD_>2018-02-14</_MOD_>
 <F_PLUG_NAME>Misc Update 2016 (48 items)</F_PLUG_NAME>
 <F_PLUG_TYPE>7421</F_PLUG_TYPE>
 <F_PLUG_FILE>Misc2016Update.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>2018-01-12</_MOD_>
+<Plugin><_MOD_>2018-02-14</_MOD_>
 <F_PLUG_NAME>Muntons Malts (17 grains)</F_PLUG_NAME>
 <F_PLUG_TYPE>7406</F_PLUG_TYPE>
 <F_PLUG_FILE>MuntonsMalts.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>2018-01-12</_MOD_>
+<Plugin><_MOD_>1970-01-01</_MOD_>
 <F_PLUG_NAME>Water Profiles by Style (30 waters)</F_PLUG_NAME>
 <F_PLUG_TYPE>7423</F_PLUG_TYPE>
 <F_PLUG_FILE>WaterByStyle.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>2018-01-12</_MOD_>
+<Plugin><_MOD_>2018-02-14</_MOD_>
 <F_PLUG_NAME>Weyermann Malts (30 grains)</F_PLUG_NAME>
 <F_PLUG_TYPE>7406</F_PLUG_TYPE>
 <F_PLUG_FILE>Weyermann.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>2018-01-12</_MOD_>
+<Plugin><_MOD_>2018-02-14</_MOD_>
 <F_PLUG_NAME>Dingemans Malts (13 grains)</F_PLUG_NAME>
 <F_PLUG_TYPE>7406</F_PLUG_TYPE>
 <F_PLUG_FILE>Dingemans.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>2018-01-12</_MOD_>
+<Plugin><_MOD_>1970-01-01</_MOD_>
 <F_PLUG_NAME>Hop Update 2013 - Hops included in V2.2 (63 hops)</F_PLUG_NAME>
 <F_PLUG_TYPE>7403</F_PLUG_TYPE>
 <F_PLUG_FILE>Hop-Update-2013.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>2018-01-12</_MOD_>
+<Plugin><_MOD_>1970-01-01</_MOD_>
 <F_PLUG_NAME>Hop Update Jun 2016 (6 hops)</F_PLUG_NAME>
 <F_PLUG_TYPE>7403</F_PLUG_TYPE>
 <F_PLUG_FILE>HopsMay2016.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>2018-01-12</_MOD_>
+<Plugin><_MOD_>1970-01-01</_MOD_>
 <F_PLUG_NAME>GABF 2015 Style Guide - Change Options-&gt;Brewing-&gt;Style Guide to view </F_PLUG_NAME>
 <F_PLUG_TYPE>7428</F_PLUG_TYPE>
 <F_PLUG_FILE>GABF2015.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>2018-01-12</_MOD_>
+<Plugin><_MOD_>1970-01-01</_MOD_>
 <F_PLUG_NAME>GABF 2013 Style Guide - Change Options-&gt;Brewing-&gt;Style Guide to view </F_PLUG_NAME>
 <F_PLUG_TYPE>7428</F_PLUG_TYPE>
 <F_PLUG_FILE>GABF_2013.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>2018-01-12</_MOD_>
+<Plugin><_MOD_>1970-01-01</_MOD_>
 <F_PLUG_NAME>BrauMeister 20 L Equipment (1 equip)</F_PLUG_NAME>
 <F_PLUG_TYPE>7430</F_PLUG_TYPE>
 <F_PLUG_FILE>Braumeister_20.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>2018-01-12</_MOD_>
+<Plugin><_MOD_>1970-01-01</_MOD_>
 <F_PLUG_NAME>BrauMeister 50 L Equipment (1 equip)</F_PLUG_NAME>
 <F_PLUG_TYPE>7430</F_PLUG_TYPE>
 <F_PLUG_FILE>Braumeister50.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>2018-01-12</_MOD_>
+<Plugin><_MOD_>2018-02-14</_MOD_>
 <F_PLUG_NAME>PicoBrew Equipment (1 equip)</F_PLUG_NAME>
 <F_PLUG_TYPE>7430</F_PLUG_TYPE>
 <F_PLUG_FILE>PicoBrew.bsmx</F_PLUG_FILE>
 </Plugin>
-<Plugin><_MOD_>2018-01-12</_MOD_>
+<Plugin><_MOD_>2018-02-14</_MOD_>
 <F_PLUG_NAME>Grainfather (1 equip)</F_PLUG_NAME>
 <F_PLUG_TYPE>7430</F_PLUG_TYPE>
 <F_PLUG_FILE>Grainfather.bsmx</F_PLUG_FILE>

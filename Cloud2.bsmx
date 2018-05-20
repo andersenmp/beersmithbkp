@@ -1,7 +1,7 @@
 <Cloud><_MOD_>2011-12-14</_MOD_>
 <Name>Cloud</Name>
 <Type>8717</Type>
-<Dirty>1</Dirty>
+<Dirty>0</Dirty>
 <Owndata>1</Owndata>
 <TID>8717</TID>
 <Size>2</Size>
@@ -596,7 +596,7 @@ Examples: Sierra Nevada Pale Ale, Anchor Liberty Ale</F_H_NOTES>
 <F_R_REBALANCE_SCALE>1</F_R_REBALANCE_SCALE>
 </F_C_RECIPE>
 </Cloud>
-<Cloud><_MOD_>2018-01-12</_MOD_>
+<Cloud><_MOD_>2018-01-14</_MOD_>
 <F_R_NAME>Azrael #1</F_R_NAME>
 <F_R_BREWER>Catspaw</F_R_BREWER>
 <F_R_STYLE_NAME>Saison</F_R_STYLE_NAME>
@@ -608,18 +608,18 @@ Examples: Sierra Nevada Pale Ale, Anchor Liberty Ale</F_H_NOTES>
 <F_R_STYLE_NUM>17.2</F_R_STYLE_NUM>
 <F_R_TYPE>2</F_R_TYPE>
 <F_R_VOLUME>507.2074174</F_R_VOLUME>
-<F_R_BOIL_VOL>699.2699595</F_R_BOIL_VOL>
+<F_R_BOIL_VOL>700.2280180</F_R_BOIL_VOL>
 <F_R_OG>1.0595520</F_R_OG>
 <F_R_FG>1.0090072</F_R_FG>
 <F_R_RATING>30.0000000</F_R_RATING>
 <F_R_BOIL_TIME>60.0000000</F_R_BOIL_TIME>
-<F_R_IBU>24.9438165</F_R_IBU>
+<F_R_IBU>24.9588364</F_R_IBU>
 <F_R_COLOR>7.9601851</F_R_COLOR>
 <F_R_EFFICIENCY>60.0000000</F_R_EFFICIENCY>
 <F_R_EST_ABV>6.6478396</F_R_EST_ABV>
 <F_C_ID>1689170</F_C_ID>
 <F_C_UID>0</F_C_UID>
-<F_C_MTIME>2018-01-12 07:43:28</F_C_MTIME>
+<F_C_MTIME>2018-01-14 12:14:59</F_C_MTIME>
 <F_C_PRIVATE>1</F_C_PRIVATE>
 <F_C_IS_FOLDER>0</F_C_IS_FOLDER>
 <F_C_FOLDER_ID>0</F_C_FOLDER_ID>
@@ -656,7 +656,7 @@ Examples: Sierra Nevada Pale Ale, Anchor Liberty Ale</F_H_NOTES>
 <F_E_TUN_ADDITION>0.0000000</F_E_TUN_ADDITION>
 <F_E_TUN_ADJ_DEADSPACE>0</F_E_TUN_ADJ_DEADSPACE>
 <F_E_CALC_BOIL>1</F_E_CALC_BOIL>
-<F_E_BOIL_VOL>699.2699595</F_E_BOIL_VOL>
+<F_E_BOIL_VOL>700.2280180</F_E_BOIL_VOL>
 <F_E_BOIL_TIME>60.0000000</F_E_BOIL_TIME>
 <F_E_OLD_EVAP_RATE>10.0000000</F_E_OLD_EVAP_RATE>
 <F_EQUIP_39>1</F_EQUIP_39>
@@ -738,7 +738,8 @@ No hot alcohol or solventy character. Very high carbonation with
 an effervescent quality. There is enough prickly acidity on the 
 tongue to balance the very dry finish. A low to moderate tart 
 character may be present but should be refreshing and not to the 
-point of puckering.</F_S_DESCRIPTION>
+point of puckering. 
+</F_S_DESCRIPTION>
 <F_S_PROFILE>A refreshing, medium to strong fruity/spicy
 ale with a distinctive yellow-orange colour, highly carbonated, well
 hopped, fruity and dry with a quenching acidity.</F_S_PROFILE>
@@ -754,7 +755,8 @@ and uniqueness in the stronger versions, but should always meld
 well with the yeast and hop character. Varying degrees of acidity 
 and/or sourness can be created by the use of gypsum, acidulated 
 malt, a sour mash or Lactobacillus. Hard water, common to most of 
-Wallonia, can accentuate the bitterness and dry finish.</F_S_INGREDIENTS>
+Wallonia, can accentuate the bitterness and dry finish. 
+</F_S_INGREDIENTS>
 <F_S_EXAMPLES>Saison Dupont Vielle Provision; Fantome
 Saison(s); Saison de Pipaix; Saison Silly; Saison Regal; Saison
 Voisin; Lefebvre Saison 1900; Ellezelloise Saison 2000; Brooklyn
@@ -788,7 +790,7 @@ Saison; Southampton Saison; New Belgium Saison; Pizza Port SPF
 <Size>1</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>2018-01-12</_MOD_>
+<Data><MashStep><_MOD_>2018-01-14</_MOD_>
 <F_MS_NAME>Mash In</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>481.8470465</F_MS_INFUSION>
@@ -797,21 +799,21 @@ Saison; Southampton Saison; New Belgium Saison; Pizza Port SPF
 <F_MS_RISE_TIME>2.0000000</F_MS_RISE_TIME>
 <F_MS_TUN_ADDITION>0.0000000</F_MS_TUN_ADDITION>
 <F_MS_TUN_HC>0.1200000</F_MS_TUN_HC>
-<F_MS_TUN_VOL>0.0000000</F_MS_TUN_VOL>
+<F_MS_TUN_VOL>912.9733513</F_MS_TUN_VOL>
 <F_MS_TUN_TEMP>72.0000000</F_MS_TUN_TEMP>
 <F_MS_TUN_MASS>0.0000000</F_MS_TUN_MASS>
 <F_MS_START_TEMP>0.0000000</F_MS_START_TEMP>
 <F_MS_GRAIN_TEMP>72.0000000</F_MS_GRAIN_TEMP>
 <F_MS_START_VOL>0.0000000</F_MS_START_VOL>
 <F_MS_GRAIN_WEIGHT>167.5513480</F_MS_GRAIN_WEIGHT>
-<F_MS_INFUSION_TEMP>157.6267259</F_MS_INFUSION_TEMP>
+<F_MS_INFUSION_TEMP>157.6266605</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
 </Data>
 <_TExpanded>1</_TExpanded>
 </steps>
 <F_MH_EQUIP_ADJUST>0</F_MH_EQUIP_ADJUST>
-<F_MH_TUN_VOL>0.0000000</F_MH_TUN_VOL>
+<F_MH_TUN_VOL>912.9733513</F_MH_TUN_VOL>
 <F_MH_TUN_MASS>203.5307954</F_MH_TUN_MASS>
 <F_MH_TUN_HC>0.1200000</F_MH_TUN_HC>
 </F_R_MASH>
@@ -877,7 +879,48 @@ Saison; Southampton Saison; New Belgium Saison; Pizza Port SPF
 <Size>10</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>2018-01-12</_MOD_>
+<Data><Water><_MOD_>2018-02-14</_MOD_>
+<F_W_NAME>Brussels - Woluwe-Saint-Pierre - Belgium</F_W_NAME>
+<F_W_AMOUNT>816.2644280</F_W_AMOUNT>
+<F_W_IN_RECIPE>1</F_W_IN_RECIPE>
+<F_W_PH>7.6000000</F_W_PH>
+<F_W_CALCIUM>127.0000000</F_W_CALCIUM>
+<F_W_MAGNESIUM>14.5000000</F_W_MAGNESIUM>
+<F_W_SODIUM>19.5000000</F_W_SODIUM>
+<F_W_SULFATE>81.8000000</F_W_SULFATE>
+<F_W_CHLORIDE>31.7000000</F_W_CHLORIDE>
+<F_W_BICARB>327.8000000</F_W_BICARB>
+<F_W_GYPSUM>0.0000000</F_W_GYPSUM>
+<F_W_SALT>0.0000000</F_W_SALT>
+<F_W_EPSOM>0.0000000</F_W_EPSOM>
+<F_W_CACL>0.0000000</F_W_CACL>
+<F_W_SODA>0.0000000</F_W_SODA>
+<F_W_CHALK>0.0000000</F_W_CHALK>
+<F_W_ADDITIONS_VOL>0.0000000</F_W_ADDITIONS_VOL>
+<F_W_NOTES>Tap water</F_W_NOTES>
+<F_W_INVENTORY>0.0000000</F_W_INVENTORY>
+<F_W_PRICE>0.0078125</F_W_PRICE>
+<F_ORDER>1</F_ORDER>
+</Water>
+<Misc><_MOD_>2018-01-14</_MOD_>
+<F_M_NAME>PH 5.2 Stabilizer</F_M_NAME>
+<F_M_TYPE>5</F_M_TYPE>
+<F_M_USE_FOR>Water Agent</F_M_USE_FOR>
+<F_M_TEMP_VOL>642.4627287</F_M_TEMP_VOL>
+<F_M_UNITS>1</F_M_UNITS>
+<F_M_AMOUNT>12.0000000</F_M_AMOUNT>
+<F_M_VOLUME>338.1382783</F_M_VOLUME>
+<F_M_INVENTORY>369.6000000</F_M_INVENTORY>
+<F_M_PRICE>0.7500000</F_M_PRICE>
+<F_M_USE>1</F_M_USE>
+<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
+<F_M_TIME>60.0000000</F_M_TIME>
+<F_M_NOTES>PH 5.2 Stabilizer by Five Star is a prioprietary mix of phosphate buffers used to lower the PH of your Mash to 5.2 for brewing.</F_M_NOTES>
+<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
+<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
+<F_ORDER>2</F_ORDER>
+</Misc>
+<Grain><_MOD_>2018-01-14</_MOD_>
 <F_G_NAME>Extra Pale Premium Pilsner (Weyermann)</F_G_NAME>
 <F_G_ORIGIN>Germany</F_G_ORIGIN>
 <F_G_SUPPLIER>Weyermann</F_G_SUPPLIER>
@@ -904,7 +947,7 @@ Saison; Southampton Saison; New Belgium Saison; Pizza Port SPF
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pilsner Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2018-01-12</_MOD_>
+<Grain><_MOD_>2018-01-14</_MOD_>
 <F_G_NAME>Pale Wheat (Dingemans)</F_G_NAME>
 <F_G_ORIGIN>Belgium</F_G_ORIGIN>
 <F_G_SUPPLIER>Dingemans</F_G_SUPPLIER>
@@ -931,7 +974,7 @@ Saison; Southampton Saison; New Belgium Saison; Pizza Port SPF
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN>DME Wheat Bavarian (Briess)</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1970-01-01</_MOD_>
+<Grain><_MOD_>2018-02-14</_MOD_>
 <F_G_NAME>Vienna Malt (Weyermann)</F_G_NAME>
 <F_G_ORIGIN>Germany</F_G_ORIGIN>
 <F_G_SUPPLIER>Weyermann</F_G_SUPPLIER>
@@ -958,7 +1001,7 @@ Saison; Southampton Saison; New Belgium Saison; Pizza Port SPF
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pale Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2018-01-12</_MOD_>
+<Grain><_MOD_>2018-01-14</_MOD_>
 <F_G_NAME>Caramunich Malt</F_G_NAME>
 <F_G_ORIGIN>Belgium</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -1004,54 +1047,13 @@ Aroma: Floral, aromatic, earthy, slightly sweet spicy flavor
 Substitutes: First Gold, Fuggles, other Golding varieties, Progress, Target, and Whitbread Golding
 Storage: Good/Fair 965-80% AA after 6 months at 20 C)
 4-7% AA / 1.9-2.8% Beta</F_H_NOTES>
-<F_H_IBU_CONTRIB>22.5195572</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>22.5331172</F_H_IBU_CONTRIB>
 <F_ORDER>7</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.9900000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1970-03-11</_MOD_>
-<F_H_NAME>Styrian Goldings</F_H_NAME>
-<F_H_ORIGIN>Slovenia</F_H_ORIGIN>
-<F_H_TYPE>1</F_H_TYPE>
-<F_H_FORM>0</F_H_FORM>
-<F_H_ALPHA>5.4000000</F_H_ALPHA>
-<F_H_BETA>2.9000000</F_H_BETA>
-<F_H_PERCENT>33.3333312</F_H_PERCENT>
-<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
-<F_H_AMOUNT>0.5291094</F_H_AMOUNT>
-<F_H_HSI>30.0000000</F_H_HSI>
-<F_H_BOIL_TIME>5.0000000</F_H_BOIL_TIME>
-<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
-<F_H_NOTES>A seedless version of Fuggles grown in Slovenia
-Used for: Bittering, finishing for a wide variety of European Beers. Popular in Europe and the United Kingdom
-Aroma: Mild, soft, grassy, floral aroma. Similar to Fuggles.
-Substitutes: Fuggles, Williamette</F_H_NOTES>
-<F_H_IBU_CONTRIB>2.4242593</F_H_IBU_CONTRIB>
-<F_ORDER>9</F_ORDER>
-<F_H_USE>0</F_H_USE>
-<F_H_IN_RECIPE>1</F_H_IN_RECIPE>
-<F_H_PRICE>1.0000000</F_H_PRICE>
-</Hops>
-<Misc><_MOD_>2018-01-11</_MOD_>
-<F_M_NAME>PH 5.2 Stabilizer</F_M_NAME>
-<F_M_TYPE>5</F_M_TYPE>
-<F_M_USE_FOR>Water Agent</F_M_USE_FOR>
-<F_M_TEMP_VOL>642.4627287</F_M_TEMP_VOL>
-<F_M_UNITS>1</F_M_UNITS>
-<F_M_AMOUNT>12.0000000</F_M_AMOUNT>
-<F_M_VOLUME>338.1382783</F_M_VOLUME>
-<F_M_INVENTORY>369.6000000</F_M_INVENTORY>
-<F_M_PRICE>0.7500000</F_M_PRICE>
-<F_M_USE>1</F_M_USE>
-<F_M_TIME_UNITS>0</F_M_TIME_UNITS>
-<F_M_TIME>60.0000000</F_M_TIME>
-<F_M_NOTES>PH 5.2 Stabilizer by Five Star is a prioprietary mix of phosphate buffers used to lower the PH of your Mash to 5.2 for brewing.</F_M_NOTES>
-<F_M_IMPORT_AS_WEIGHT>1</F_M_IMPORT_AS_WEIGHT>
-<F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
-<F_ORDER>2</F_ORDER>
-</Misc>
-<Misc><_MOD_>2018-01-12</_MOD_>
+<Misc><_MOD_>2018-01-14</_MOD_>
 <F_M_NAME>Irish Moss</F_M_NAME>
 <F_M_TYPE>1</F_M_TYPE>
 <F_M_USE_FOR>Clarity</F_M_USE_FOR>
@@ -1069,7 +1071,30 @@ Substitutes: Fuggles, Williamette</F_H_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>8</F_ORDER>
 </Misc>
-<Yeast><_MOD_>1970-01-01</_MOD_>
+<Hops><_MOD_>1970-03-11</_MOD_>
+<F_H_NAME>Styrian Goldings</F_H_NAME>
+<F_H_ORIGIN>Slovenia</F_H_ORIGIN>
+<F_H_TYPE>1</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>5.4000000</F_H_ALPHA>
+<F_H_BETA>2.9000000</F_H_BETA>
+<F_H_PERCENT>33.3333312</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>0.5291094</F_H_AMOUNT>
+<F_H_HSI>30.0000000</F_H_HSI>
+<F_H_BOIL_TIME>5.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>A seedless version of Fuggles grown in Slovenia
+Used for: Bittering, finishing for a wide variety of European Beers. Popular in Europe and the United Kingdom
+Aroma: Mild, soft, grassy, floral aroma. Similar to Fuggles.
+Substitutes: Fuggles, Williamette</F_H_NOTES>
+<F_H_IBU_CONTRIB>2.4257191</F_H_IBU_CONTRIB>
+<F_ORDER>9</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>1</F_H_IN_RECIPE>
+<F_H_PRICE>1.0000000</F_H_PRICE>
+</Hops>
+<Yeast><_MOD_>2018-01-14</_MOD_>
 <F_Y_NAME>Belgian Saison</F_Y_NAME>
 <F_Y_LAB>Wyeast Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>3724</F_Y_PRODUCT_ID>
@@ -1098,29 +1123,6 @@ Substitutes: Fuggles, Williamette</F_H_NOTES>
 <F_Y_NOTES>Classic farmhouse ale yeast.  Spicy, complex aromatics including bubble gum.  Tart and dry on the palate with mild fruitiness.  Finishes crisp and mildly acidic.  Ferment at warm temperature.  May have vigorous fermentation start.</F_Y_NOTES>
 <F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
 </Yeast>
-<Water><_MOD_>2018-01-12</_MOD_>
-<F_W_NAME>Brussels - Woluwe-Saint-Pierre - Belgium</F_W_NAME>
-<F_W_AMOUNT>816.2644280</F_W_AMOUNT>
-<F_W_IN_RECIPE>1</F_W_IN_RECIPE>
-<F_W_PH>7.6000000</F_W_PH>
-<F_W_CALCIUM>127.0000000</F_W_CALCIUM>
-<F_W_MAGNESIUM>14.5000000</F_W_MAGNESIUM>
-<F_W_SODIUM>19.5000000</F_W_SODIUM>
-<F_W_SULFATE>81.8000000</F_W_SULFATE>
-<F_W_CHLORIDE>31.7000000</F_W_CHLORIDE>
-<F_W_BICARB>327.8000000</F_W_BICARB>
-<F_W_GYPSUM>0.0000000</F_W_GYPSUM>
-<F_W_SALT>0.0000000</F_W_SALT>
-<F_W_EPSOM>0.0000000</F_W_EPSOM>
-<F_W_CACL>0.0000000</F_W_CACL>
-<F_W_SODA>0.0000000</F_W_SODA>
-<F_W_CHALK>0.0000000</F_W_CHALK>
-<F_W_ADDITIONS_VOL>0.0000000</F_W_ADDITIONS_VOL>
-<F_W_NOTES>Tap water</F_W_NOTES>
-<F_W_INVENTORY>0.0000000</F_W_INVENTORY>
-<F_W_PRICE>0.0078125</F_W_PRICE>
-<F_ORDER>1</F_ORDER>
-</Water>
 </Data>
 <_TExpanded>1</_TExpanded>
 </Ingredients>
@@ -1167,12 +1169,12 @@ Substitutes: Fuggles, Williamette</F_H_NOTES>
 <F_R_RUNOFF_PH_SET>0</F_R_RUNOFF_PH_SET>
 <F_R_RUNNING_GRAVITY>1.0100000</F_R_RUNNING_GRAVITY>
 <F_R_RUNNING_GRAVITY_SET>0</F_R_RUNNING_GRAVITY_SET>
-<F_R_STARTER_OG>1.0350000</F_R_STARTER_OG>
+<F_R_STARTER_OG>1.0400000</F_R_STARTER_OG>
 <F_R_GRAIN_STEEP_TIME>30</F_R_GRAIN_STEEP_TIME>
 <F_R_GRAIN_STEEP_TEMP>155.0000000</F_R_GRAIN_STEEP_TEMP>
 <F_R_INCLUDE_STARTER>1</F_R_INCLUDE_STARTER>
 <F_R_VERSION>1.0000000</F_R_VERSION>
-<F_R_STARTER_SIZE>40.5768396</F_R_STARTER_SIZE>
+<F_R_STARTER_SIZE>50.7207417</F_R_STARTER_SIZE>
 <F_R_STIR_PLATE>1</F_R_STIR_PLATE>
 <F_R_OLD_VOL>642.4627287</F_R_OLD_VOL>
 <F_R_OLD_BOIL_VOL>841.1189673</F_R_OLD_BOIL_VOL>
